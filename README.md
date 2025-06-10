@@ -11,7 +11,7 @@ The goal is to simplify task management, improve organization, and enhance code 
 
 ## Technologies Used
 
-- Python 3.x
+- Python
 - Object-Oriented Programming (OOP)
 
 ## Author
