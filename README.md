@@ -16,4 +16,4 @@ The goal is to simplify task management, improve organization, and enhance code 
 
 ## Author
 
-Enis Gosić – student at ITAcademy, learning Python and developing practical coding skills.
+Enis Gosić
